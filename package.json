@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "csv-loader": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
     "xml-loader": "^1.2.1"
   }
 }
