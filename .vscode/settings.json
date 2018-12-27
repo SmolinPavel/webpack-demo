@@ -4,6 +4,7 @@
   "editor.formatOnSave": true,
   "eslint.autoFixOnSave": true,
   "prettier.singleQuote": true,
+  "workbench.editor.enablePreview": false,
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.quickSuggestions": true,

@@ -25,5 +25,9 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.28.2",
     "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "csv-loader": "^3.0.2",
+    "xml-loader": "^1.2.1"
   }
 }

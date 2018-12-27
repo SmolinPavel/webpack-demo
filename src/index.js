@@ -2,6 +2,7 @@ import _ from 'lodash';
 
 import './style.css';
 import Santa from './santa.png';
+import Data from './data.xml';
 
 function component() {
   let element = document.createElement('div');
@@ -13,6 +14,8 @@ function component() {
   santaImg.src = Santa;
 
   element.appendChild(santaImg);
+
+  console.log(Data);
 
   return element;
 }
